@@ -1,0 +1,34 @@
+# .gitignore file for Python and GCP project
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Local development settings
+.env
+
+# Google Cloud Platform service account key file
+*.json
+
+# Dependency directories
+venv/
+env/
+Lib/
+node_modules/
+
+# Logs
+*.log
+logs/
+logging/
+
+# Output files
+*.bak
+*.swp
+*.lock
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+*.pydevproject
