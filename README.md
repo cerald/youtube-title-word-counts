@@ -23,4 +23,4 @@ This program uses the YouTube Data API to retrieve a YouTube channel's uploaded 
 3. The program will output the 10 most common words in the titles of the uploaded videos for the specified YouTube channel.
 
 ### Customization
-You can also modify the maxResults parameter in the playlist_items_response request to retrieve more or fewer videos per API call. Note that there is a quota limit for the number of API requests that can be made per day.
+You can also modify the `maxResults` parameter in the `playlist_items_response` request to retrieve more or fewer videos per API call. Note that there is a quota limit for the number of API requests that can be made per day.
