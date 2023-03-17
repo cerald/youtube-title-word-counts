@@ -3,7 +3,7 @@
 # Program to count the most common words in the titles of a YouTube channel's uploaded videos
 This program uses the YouTube Data API to retrieve a YouTube channel's uploaded videos and count the most common words in their titles.
 
-###Prerequisites
+### Prerequisites
 * Python 3.x
 * google-auth and google-api-python-client modules
 * A Google Cloud Platform project with the YouTube Data API enabled
